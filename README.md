@@ -16,3 +16,6 @@ En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
 
 Oros satelites de Jupiter son Amaltea, Adrastea y Lisitea. 
+
+
+Júpiter es el planeta más grande del sistema solar y el quinto en orden de lejanía al Sol.
