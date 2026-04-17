@@ -19,3 +19,5 @@ Oros satelites de Jupiter son Amaltea, Adrastea y Lisitea.
 
 
 Júpiter es el planeta más grande del sistema solar y el quinto en orden de lejanía al Sol.
+
+Europa la segunda luna, ha capturado la imaginacion de los cientificos debido a la posibilidad de que albergue un oceano de agua liquida bajo su superficie helada.
